@@ -1,0 +1,20 @@
+{
+    "user":[
+          {
+            "id": 1,
+            "username": "Ganesh More",
+            "avatar_url ": "https://i.pravatar.cc/300",
+            "fullname":"",
+            "email": "ganesh@gmail.com",
+            "Password":"1234"
+          }
+    ],
+    "posts":[
+          {
+            "id":1,
+            "username":"ganesh",
+            "note":"I love cats ",
+            "gip":"https://developers.giphy.com/branch/master/static/use_case_messaging-bbab18ff6f9851eafcda5b49b087ebb3.gif"
+          }
+    ]
+}
